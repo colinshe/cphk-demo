@@ -1,0 +1,5 @@
+function PrintMessage {
+  Write-host "This is Check Pint Demo"
+}
+
+PrintMessage
