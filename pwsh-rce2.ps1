@@ -1,2 +1,5 @@
+function PrintMessage {
+  Write-Host "Hello, This is a fileless attack demo from Check Point"
+}
+
 PrintMessage
-Write-Host "Hello, This is the powershell remote excutation demo from Check Point"
